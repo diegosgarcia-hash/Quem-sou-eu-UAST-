@@ -18,8 +18,8 @@ body {
 header {
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 25%;
+  margin-right: 25%;
   text-align: center;
 }
 
@@ -88,9 +88,9 @@ p {
   margin: 0;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 250px) {
   .answer-choice {
-    width: 42%;
+    width: 45%;
     margin: 0;
   }
 
